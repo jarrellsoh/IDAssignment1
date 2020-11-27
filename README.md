@@ -17,15 +17,15 @@ Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
-Feature 1 - The layout of some of the pages change according to the device used. After becoming smaller than a set width, the media query used optimises the page for anything smaller than that set size. 
-Feature 2 - When the website goes into mobile view, the navigation bar turns into a pop-up bar that can be accessed by clicking on the "burger" icon at the top right hand corner. The sidebar is animated to pop out smoothly to enhance user experience. 
-Feature 3 - The navigation bar allows the user to go to whatever page they like simply just by clicking on that page name, making navigating through the site easy and user-friendly. 
-Feature 4 - The social media icons at the bottom of the website also allows people to navigate to my personal social media sites by clicking on the respective icon, allowing them to quickly go to my social media sites if they wish to do so. 
-Feature 5 - The contact me page has a form that the user can fill up to inform me of their contacts in case they want me to contact them, then submit it by clicking to submit button. The inputs are validated before submission and will inform the user if there are any invalid fields.
+- Feature 1 - The layout of some of the pages change according to the device used. After becoming smaller than a set width, the media query used optimises the page for anything smaller than that set size. 
+- Feature 2 - When the website goes into mobile view, the navigation bar turns into a pop-up bar that can be accessed by clicking on the "burger" icon at the top right hand corner. The sidebar is animated to pop out smoothly to enhance user experience. 
+- Feature 3 - The navigation bar allows the user to go to whatever page they like simply just by clicking on that page name, making navigating through the site easy and user-friendly. 
+- Feature 4 - The social media icons at the bottom of the website also allows people to navigate to my personal social media sites by clicking on the respective icon, allowing them to quickly go to my social media sites if they wish to do so. 
+- Feature 5 - The contact me page has a form that the user can fill up to inform me of their contacts in case they want me to contact them, then submit it by clicking to submit button. The inputs are validated before submission and will inform the user if there are any invalid fields.
 
 Features Left to Implement
-Feature 1 - Add interactive elements throughout the website to make it more appealing and interesting to the public. This can be done by animating various options in the website.
-Feature 2 - Add drop down bars to each of the navigation bar links that will bring the user to that particular section of the website. 
+- Feature 1 - Add interactive elements throughout the website to make it more appealing and interesting to the public. This can be done by animating various options in the website.
+- Feature 2 - Add drop down bars to each of the navigation bar links that will bring the user to that particular section of the website. 
 
 Technologies Used
 This website uses html, css and javascript. 
