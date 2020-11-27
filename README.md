@@ -37,5 +37,6 @@ Contact form:
 The form will prompt the user if an invalid input is dound in the form. If any part of the form is empty, the user will be prompted to enter information into it. If an invalid input is found, the user will be propted to change it into a valid input.  For example, if the user does not put @ in the email portion, he or she will be promted to do so by the website. 
 The form is optimised to appear in suitable places according to screen size, and works the same accross all sizes. 
 
+Credits: https://pngtree.com/free-backgrounds-photos/achievement
 Acknowledgements
 I received inspiration for the navigation bar from a youtube tutorial. The link is: https://www.youtube.com/watch?v=gXkqy0b4M5g

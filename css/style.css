@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 /*Navigation Bar*/
 *{
     margin: 0px;
@@ -82,13 +85,14 @@ nav{
     align-items: center;
     justify-content: center;
     font-size: 35px;
+    font-family: 'Ubuntu', sans-serif;
 }
 .About img{
     width: 100%;
     border-radius: 20px;
 }
 .About p{
-    width: 90%;
+    width:90%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -102,53 +106,49 @@ nav{
 
 /*Achievements*/
 .AchievementsBackground{
-    background-image: url("../images/scenery.jpg");
+    background-image: linear-gradient(white, lightgray);
     background-size: cover;
 }
 #AchievementsHeading{
     display: flex;
-    height: 10%;
+    height: 90%;
     align-items: center;
     justify-content: center;
-    font-size: 35px;
+    font-size: 50px;
+    background-image: url("../images/achievements.jpg");
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
 }
-.Achievements{
+#AchievementsHeading a{
+    color: black;
+    text-decoration: none;
+}
+#AchievementsHeading a:hover{
+    color: purple;
+}
+#Achievements{
     display: flex;
-    flex-direction: row;
+    flex-direction: 100%;
+    flex-wrap: wrap;
 }
-.Academic{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    font-size: 20px;
-}
-.Academic img{
-    width: 100%;
-}
-.Climbing{
-    display: flex;
-    flex-direction: column-reverse;
-    width: 100%;
-    font-size: 20px;
-}
-.Climbing img{
-    width: 100%;
-}
-.text{
+.AchievementsItem{
+    padding: 2%;
+    flex-grow: 1;
+    flex-basis: 35%;
     display: flex;
     flex-direction: column;
-    width: 100%;
-    margin: 5%;
     justify-content: center;
+    font-size: 120%;
 }
-.text h2{
-    position: relative;
-    margin-bottom: 20px;
+.AchievementsItem img{
+    max-width: 100%;
+    border-radius: 10%;
 }
 /*Contact Me Page*/
 #ContactBackground{
     background-image: url("../images/contactbackground.jpg");
     background-size: cover;
+    opacity: 75%;
 }
 .ContactMe{
     height: 100%;
@@ -158,7 +158,6 @@ nav{
     align-items: center;
     position: relative;
     margin-left: 12%;
-
 }
 .feedbackForm{
     width: 100%;
@@ -181,6 +180,7 @@ nav{
     left: 0px;
     width: 50%; 
     pointer-events: none;
+    font-weight: bolder;
 }
 .nameLabel{
     height: 99%;
@@ -210,17 +210,18 @@ nav{
     background-color:lightgray;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     width: 100%;
+    list-style: none;
 }
 .contact-links img{
     position: relative;
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    margin: 2px;
-    left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 /*Affects whole website*/
