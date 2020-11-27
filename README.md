@@ -8,8 +8,8 @@ I started this project with a goal to make a website where people can take a loo
 I believe that I was successful in doing so as my website is quite short and simple, but still manages to get my points across without sacrificing much of the aesthetics.
 
 User Stories: 
--As an employer, I want to use this website in order to get to know my employee more and figure out his strengths, so I can decide if he is suitable.
--As a fellow co-worker, I want to view the site to understand my co-worker more and find out what kind of interests he has, what is his backstory etc. 
+- As an employer, I want to use this website in order to get to know my employee more and figure out his strengths, so I can decide if he is suitable.
+- As a fellow co-worker, I want to view the site to understand my co-worker more and find out what kind of interests he has, what is his backstory etc. 
 
 In my assignment folder, you will see my wireframe made from AdobeXD. Though it might not be as good as the final website, it acted as a good guideline for where everything should go and helped with planning what should be inside the website and where it should be. 
 
@@ -29,19 +29,13 @@ Features Left to Implement
 
 Technologies Used
 This website uses html, css and javascript. 
-html determines the content and what goes into the website. 
-css makes up the design of the website and dictates what should go where. 
-javascript helps to implement complex and interactive features onto the website.
+- html determines the content and what goes into the website. 
+- css makes up the design of the website and dictates what should go where. 
+- javascript helps to implement complex and interactive features onto the website.
 
 Contact form:
 The form will prompt the user if an invalid input is dound in the form. If any part of the form is empty, the user will be prompted to enter information into it. If an invalid input is found, the user will be propted to change it into a valid input.  For example, if the user does not put @ in the email portion, he or she will be promted to do so by the website. 
 The form is optimised to appear in suitable places according to screen size, and works the same accross all sizes. 
 
-Credits
-Me
-Content
-Eveything was written by me
-Media
-The photos were all taken by me
 Acknowledgements
 I received inspiration for the navigation bar from a youtube tutorial. The link is: https://www.youtube.com/watch?v=gXkqy0b4M5g
