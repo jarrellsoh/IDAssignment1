@@ -44,7 +44,7 @@ nav{
 
 /*Index Page*/
 .IntroBackground{
-    background-image: url("Climbing.JPG");
+    background-image: url("images/Climbing.JPG");
 }
 #IntroHeading{
     display: flex;
@@ -102,7 +102,7 @@ nav{
 
 /*Achievements*/
 .AchievementsBackground{
-    background-image: url("scenery.jpg");
+    background-image: url("images/scenery.jpg");
     background-size: cover;
 }
 #AchievementsHeading{
@@ -147,7 +147,7 @@ nav{
 }
 /*Contact Me Page*/
 #ContactBackground{
-    background-image: url("contactbackground.jpg");
+    background-image: url("images/contactbackground.jpg");
     background-size: cover;
 }
 .ContactMe{
